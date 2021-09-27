@@ -1,0 +1,15 @@
+#card {
+  border-radius: 15px;
+  background-color: #15fc00;
+  font-family: 'Gemunu Libre', sans-serif;
+  color: #023d01;
+}
+
+#card:hover {
+  color: #0ec6e6;
+  background-color: #bf3600;
+}
+#image {
+  border-radius: 200%;
+  border-width: 10px;
+}
